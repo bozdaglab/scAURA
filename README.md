@@ -18,8 +18,8 @@ Overall, scAURA provides a noise-aware, and biologically meaningful framework fo
 ##  Model Architecture
 <p align="center">
   <img 
-    src="images/BioLM-NET Final Architecture.png" 
-    alt="BioLM-NET final architecture" 
+    src="images/scAURA_Architecture.png" 
+    alt="scAURA architecture" 
     width="800" 
   >
 </p>
