@@ -23,4 +23,7 @@ Overall, scAURA provides a noise-aware, and biologically meaningful framework fo
     width="800" 
   >
 </p>
- 
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt 
