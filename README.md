@@ -29,3 +29,23 @@ Overall, scAURA provides a noise-aware, and biologically meaningful framework fo
 ```bash
 pip install -r requirements.txt
 ```
+
+## Running scAURA
+
+Two implementations are provided based on dataset size.
+
+### Option 1: CPU version (small datasets)
+
+Use this version when the dataset contains **fewer than 2,500 cells**.
+
+```bash
+python scAURA.py
+
+```
+### Option 2: GPU version (large datasets)
+
+Use this version when the dataset contains **2,500 cells or more**.
+
+```bash
+python scAURA_gpu.py
+```
