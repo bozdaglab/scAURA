@@ -5,7 +5,7 @@ scAURA is a self-supervised graph representation learning framework for clusteri
 
 ## Architecture
 
-![scAURA Architecture](figures/scAURA_Architecture.png)
+![scAURA Architecture](images/scAURA_Architecture.png)
 
 *Figure 1. Overview of the scAURA framework, including adaptive graph construction, graph-based contrastive representation learning, and deep embedded clustering.*
 
